@@ -6,32 +6,27 @@ body{
 }
 
 h1{
-    margin: 0;
+    margin-bottom: 5px;
 }
 
-header{
+.image-header{
     height: 180px;
     background-image: url(../img/pattern.png);
     background-color: #4EA0FF;
 }
 
+main{
+    margin: 5px;
+}
+
 #logo{
     width: 300px;
-    position: absolute;
-    top: 90px;
-    left: 5px;
+    padding-top: 100px;
+    padding-left: 5px;
 }
 
-main{
-    position: absolute;
-    top: 280px;
-    left: 5px;
-}
-
-.title{
-    position: absolute;
-    top: 190px;
-    left: 5px;
+header{
+    margin: 15px 5px;
 }
 
 .lightblue{
@@ -45,4 +40,3 @@ main{
 .smaller-text{
     font-size: 13px;
 }
-
