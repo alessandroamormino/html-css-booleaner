@@ -40,3 +40,26 @@ header{
 .smaller-text{
     font-size: 13px;
 }
+
+/* Table Style */
+table{
+    width: 100%;
+    border-spacing: 0;
+}
+
+th{
+    background-color: #20A9E5;
+    color: white;
+}
+
+th, td {
+    text-align: left;
+}
+
+.long{
+    width: 50%;
+}
+
+tr:nth-child(odd){
+    background-color: #B1E5F2;
+}
