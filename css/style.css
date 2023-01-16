@@ -1,0 +1,25 @@
+/* Margin reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 180px;
+    background-image: url(../img/pattern.png);
+    background-color: #4EA0FF;
+}
+
+#logo{
+    width: 300px;
+    position: absolute;
+    top: 90px;
+    left: 5px;
+}
+
+.title{
+    position: absolute;
+    top: 190px;
+    left: 5px;
+}
