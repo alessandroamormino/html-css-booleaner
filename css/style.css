@@ -95,3 +95,22 @@ tr:nth-child(odd){
     left: 10px;
     color: white;
 }
+
+/* Bonus */
+/* Make a tag like a button for styling */
+
+.button{
+    display: block;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 20px;
+    background-color: #20A9E5;
+    border-radius: 50px;
+}
+
+.button:link,
+.button:visited{
+    color: #ffffff;
+}
+/* /Bonus */
