@@ -33,12 +33,16 @@ header{
     color: #2bade6  ;
 }
 
-.written-by{
+.grey{
     color: grey;
 }
 
 .smaller-text{
     font-size: 13px;
+}
+
+ul{
+    padding: 15px
 }
 
 /* Table Style */
@@ -62,4 +66,9 @@ th, td {
 
 tr:nth-child(odd){
     background-color: #B1E5F2;
+}
+/* /Table Style */
+
+.bold{
+    font-weight: bold;
 }
