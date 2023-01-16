@@ -9,10 +9,14 @@ h1{
     margin-bottom: 5px;
 }
 
-.image-header{
+.bg-image{
     height: 180px;
     background-image: url(../img/pattern.png);
     background-color: #4EA0FF;
+}
+
+.title{
+    margin: 15px 5px;
 }
 
 main{
@@ -23,10 +27,6 @@ main{
     width: 300px;
     padding-top: 100px;
     padding-left: 5px;
-}
-
-header{
-    margin: 15px 5px;
 }
 
 .lightblue{
