@@ -18,6 +18,12 @@ header{
     left: 5px;
 }
 
+main{
+    position: absolute;
+    top: 280px;
+    left: 5px;
+}
+
 .title{
     position: absolute;
     top: 190px;
@@ -33,5 +39,6 @@ header{
 }
 
 .smaller-text{
-    font-size: 14px;
+    font-size: 13px;
 }
+
